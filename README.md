@@ -8,6 +8,8 @@ Well-organized person, in constant learning and with a lot of attention to detai
 Interested in entire web development spectrum, particularly on the front end and working in projects who change the people’s lifes
 <div align=center>
 
+[![portfolio](https://img.shields.io/badge/portfolio-2e2e2e?style=for-the-badge)](https://augustoalves.dev)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-malves/)
 </div>
 
