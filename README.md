@@ -3,7 +3,7 @@
 
 ## 🚀 About me
 Brazilian and in love with technology. 
-Web develpment student at [Trybe](https://www.betrybe.com/) who likes to solve complex problems
+Web development student at [Trybe](https://www.betrybe.com/) who likes to solve complex problems
 Well-organized person, in constant learning and with a lot of attention to detail.
 Interested in entire web development spectrum, particularly on the front end and working in projects who change the people’s lifes
 <div align=center>
