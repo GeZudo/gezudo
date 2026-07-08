@@ -5,7 +5,7 @@
 Brazilian and in love with technology. 
 Software engineer at [Mercado Livre](https://www.mercadolivre.com.br/) who likes to solve complex problems
 Well-organized person, in constant learning and with a lot of attention to detail.
-Interested in entire web development spectrum, particularly on the front end and working in projects who change the people’s lifes
+Interested in entire web development spectrum, particularly on the front end, AI and working in projects who change the people’s lifes
 <div align=center>
 
 [![portfolio](https://img.shields.io/badge/portfolio-2e2e2e?style=for-the-badge)](https://augustoalves.dev)
